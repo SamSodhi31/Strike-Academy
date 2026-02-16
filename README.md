@@ -6,7 +6,7 @@ Built with simplicity, speed, and scalability in mind — STRIKE helps learners 
 ---
 
 ## 🚀 Features
-
+- very Good Understanding of real core skills
 - 🎓 User-friendly interface for browsing and enrolling in courses  
 - 🧠 Category-based course organization  
 - 📱 Fully responsive design (mobile + desktop)  
